@@ -46,7 +46,3 @@ You can inspect the registered Mastra agent/workflow separately with:
 ```bash
 npm run mastra:dev
 ```
-
-## Video
-
-Record a short walkthrough showing the paste, confirmation, progress messages, and rendered audit. Mention whether the demo is running with `OPENAI_API_KEY` or the deterministic fallback.
